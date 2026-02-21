@@ -1,3 +1,6 @@
+#Course: EECE490
+#Students: Leen Kahwaji and Sarah Tourbah
+
 # stories-coffee-analytics
 Data analysis and machine learning project on Stories Coffee sales data to generate business insights and actionable recommendations.
 
@@ -84,5 +87,6 @@ notebooks/01_cleaning.ipynb
 notebooks/02_analysis.ipynb
 All figures will be saved in:
 outputs/figures/
+
 
 
