@@ -211,3 +211,7 @@ outputs/
 data/
 outputs/
 .venv/
+data/
+outputs/
+.venv/
+.ipynb_checkpoints/
